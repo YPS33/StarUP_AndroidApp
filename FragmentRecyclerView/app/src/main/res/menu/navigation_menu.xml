@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/itemHome"
+        android:icon="@drawable/home"
+        android:title="@string/textHome" />
+    <item
+        android:id="@+id/itemWorks"
+        android:icon="@drawable/art_palette"
+        android:title="@string/textWorks" />
+    <item
+        android:id="@+id/itemRecruit"
+        android:icon="@drawable/recruitment"
+        android:title="@string/textRecruit" />
+    <item
+        android:id="@+id/itemMall"
+        android:icon="@drawable/store"
+        android:title="@string/textMall" />
+    <item
+        android:id="@+id/itemMine"
+        android:icon="@drawable/saturn"
+        android:title="@string/textMine" />
+</menu>
